@@ -65,9 +65,52 @@ I specialize in **React, Node.js, Express, and MongoDB**, and I enjoy solving re
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimreza01\&layout=compact\&theme=radical)
 
 ---
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+## 🧠 Tech Stack
+
+### 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router)
+
+---
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
+![Joi](https://img.shields.io/badge/Joi-FF6F00?style=for-the-badge)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A8F?style=for-the-badge)
+![Multer](https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge)
+
+---
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+---
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+
+---
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+
 
 ## 🏆 Achievements
 
@@ -81,7 +124,7 @@ I specialize in **React, Node.js, Express, and MongoDB**, and I enjoy solving re
 ## 📫 Connect With Me
 
 * 📧 Email: [SRSHAMIMREZA97903116@gmail.com](mailto:SRSHAMIMREZA97903116@gmail.com)
-* 🔗 LinkedIn: (add link)
+* 🔗 LinkedIn: [Shamim Reza Linkdin](https://www.linkedin.com/in/shamimreza01/)
 * 💻 GitHub: https://github.com/Shamimreza01
 
 ---
