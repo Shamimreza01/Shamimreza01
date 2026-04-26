@@ -65,6 +65,9 @@ I specialize in **React, Node.js, Express, and MongoDB**, and I enjoy solving re
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamimreza01\&layout=compact\&theme=radical)
 
 ---
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ## 🏆 Achievements
 
