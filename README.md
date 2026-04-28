@@ -1,4 +1,5 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Shamim%20Reza&fontSize=40&fontColor=ffffff)
+<img src="https://raw.githubusercontent.com/Shamimreza01/Shamimreza01/main/Banner.png" width="100%" />
+</br>
 # 👋 Hi, I'm MD Shamim Reza
 
 🚀 Full-Stack Developer (MERN) | React • Node.js • MongoDB
